@@ -1,0 +1,8 @@
+ const constants =  {
+  SUBMIT_NAME: 'SUBMIT_NAME',
+  FIND_PRODUCT: 'FIND_PRODUCT_REQUEST',
+  RECEIVED_PRODUCT: 'RECEIVE_PRODUCT_RESPONSE',
+  ERROR: 'ERROR'
+}
+
+export default constants;
